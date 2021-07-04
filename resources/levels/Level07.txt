@@ -1,0 +1,4 @@
+P P P P
+P _ _ R
+P _ _ P
+P P P G
